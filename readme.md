@@ -61,6 +61,8 @@ python youtube_transcriber_gui.py
 4. Click "Start Transcription"
 5. When complete, use "Save Transcript" to save the transcription as a text file
 
+![Screenshot of the UI](https://github.com/CamelCod/YoutubeTranscriberGUI/blob/main/Screenshot_UI.png)
+
 ## 📈 Performance Tips
 
 - Use smaller Whisper models for faster processing (tiny or base)
