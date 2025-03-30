@@ -5,7 +5,7 @@ A Python GUI application that downloads YouTube videos, extracts audio, and tran
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/YOUR_USERNAME/YoutubeTranscriberGUI)
 ![GitHub](https://img.shields.io/github/license/YOUR_USERNAME/YoutubeTranscriberGUI)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
-
+![Success Message](https://github.com/CamelCod/YoutubeTranscriberGUI/blob/main/Screenshot-Success-Message.png)
 ## Features
 
 - Download audio from YouTube videos using yt-dlp
